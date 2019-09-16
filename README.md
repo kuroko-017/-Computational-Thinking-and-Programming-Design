@@ -1,2 +1,2 @@
-# -Computational-Thinking-and-Programming-Design
+# Computational-Thinking-and-Programming-Design
 Course Homework
